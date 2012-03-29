@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Segoe UI" Size="9" />
+  <Class Name="q5project.Features">
+    <Position X="8.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Features.cs</FileName>
+      <HashCode>AQAAgAAAAAIIAAAAAAAAAAAAIAAAACAAAAAAABAAEAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="q5project.Form1">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Form1.cs</FileName>
+      <HashCode>/39gBFAAQSp46RhKBAT6D5HmXwD9MyDwP/T+/zD4F2A=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+  </Class>
+  <Class Name="q5project.Program">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="q5project.Storage">
+    <Position X="11" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Storage.cs</FileName>
+      <HashCode>AAAAAAAAAICAAAAAAAAAAAAAAAAAAgEAAIAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="q5project.sudokugrid">
+    <Position X="8.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sudokugrid.cs</FileName>
+      <HashCode>AAAAACABAAAAAQAAAAAAAAAAAAAAAAAAQQAAABAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="q5project.SudokuManager">
+    <Position X="6.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>SudokuManager.cs</FileName>
+      <HashCode>CAAAAKBAABCIAABgAAAAAgAAAAAAIAIEAABAABQAAAE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="q5project.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAACAAAAAABEAAAAQAAAAAAAAABBAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="q5project.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

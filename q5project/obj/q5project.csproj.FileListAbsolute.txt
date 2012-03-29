@@ -1,0 +1,8 @@
+C:\Users\ishan\Documents\Visual Studio 2005\Projects\q5project\q5project\bin\Debug\q5project.exe
+C:\Users\ishan\Documents\Visual Studio 2005\Projects\q5project\q5project\bin\Debug\q5project.pdb
+C:\Users\ishan\Documents\Visual Studio 2005\Projects\q5project\q5project\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ishan\Documents\Visual Studio 2005\Projects\q5project\q5project\obj\Debug\q5project.Form1.resources
+C:\Users\ishan\Documents\Visual Studio 2005\Projects\q5project\q5project\obj\Debug\q5project.Properties.Resources.resources
+C:\Users\ishan\Documents\Visual Studio 2005\Projects\q5project\q5project\obj\Debug\q5project.csproj.GenerateResource.Cache
+C:\Users\ishan\Documents\Visual Studio 2005\Projects\q5project\q5project\obj\Debug\q5project.exe
+C:\Users\ishan\Documents\Visual Studio 2005\Projects\q5project\q5project\obj\Debug\q5project.pdb
